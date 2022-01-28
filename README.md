@@ -1,4 +1,9 @@
 
+```
+npm install
+npx nodemon index.js 
+```
+
 Card to use:
 
 4111 1111 1111 1111
